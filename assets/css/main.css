@@ -2292,7 +2292,7 @@
 				}
 
 				.box.features .features-row section:nth-child(2n) {
-					padding-right: 0;
+					padding-right: 3em;
 				}
 
 					.box.features .features-row section:nth-child(2n):before {
@@ -2307,7 +2307,7 @@
 					}
 
 				.box.features .features-row section:nth-child(2n-1) {
-					padding-left: 0;
+					padding-left: 3em;
 				}
 
 			.box.features .features-row:first-child {
