@@ -2411,6 +2411,7 @@
 			line-height: 5.5em;
 			margin: 0 0 2em 0;
 			width: 5.5em;
+			opacity: 0.35;
 		}
 
 			.icon.major:before {
@@ -2440,6 +2441,10 @@
 			.icon.major.accent5 {
 				background: #e5cb95;
 				color: #ffffff;
+			}
+
+			.icon.major:hover {
+				opacity: 0.75;
 			}
 
 /* Image */
