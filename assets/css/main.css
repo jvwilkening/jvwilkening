@@ -2412,7 +2412,7 @@
 			line-height: 5.5em;
 			margin: 0 0 2em 0;
 			width: 5.5em;
-			opacity: 0.35;
+			opacity: 0.45;
 		}
 
 			.icon.major:before {
@@ -2444,8 +2444,8 @@
 				color: #ffffff;
 			}
 
-			.icon.major {
-				opacity: 0.75;
+			.icon.major:hover  {
+				opacity: 0.9;
 			}
 
 /* Image */
