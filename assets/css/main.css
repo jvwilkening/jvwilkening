@@ -2284,7 +2284,7 @@
 			.box.features .features-row section {
 				float: left;
 				padding: 3em;
-				width: 50%;
+				width: 25%;
 			}
 
 				.box.features .features-row section :last-child {
@@ -2303,7 +2303,7 @@
 						margin-left: -3em;
 						position: absolute;
 						top: 0;
-						width: 2px;
+						width: 0px;
 					}
 
 				.box.features .features-row section:nth-child(2n-1) {
