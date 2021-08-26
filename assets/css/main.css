@@ -2291,11 +2291,11 @@
 					margin-bottom: 0;
 				}
 
-				.box.features .features-row section:nth-child(2n) {
+				.box.features .features-row section:nth-child(4n) {
 					padding-right: 0;
 				}
 
-					.box.features .features-row section:nth-child(2n):before {
+					.box.features .features-row section:nth-child(4n):before {
 						background: #e5e5e5;
 						content: '';
 						display: block;
@@ -2306,7 +2306,7 @@
 						width: 2px;
 					}
 
-				.box.features .features-row section:nth-child(2n-1) {
+				.box.features .features-row section:nth-child(4n-1) {
 					padding-left: 0;
 				}
 
